@@ -1,4 +1,5 @@
-# local-news-agent
+# Local LLM Tools
+
 
 A tiny local-first news summarizer that fetches headlines from free RSS feeds and summarizes them using Ollama.
 
